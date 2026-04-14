@@ -1,21 +1,21 @@
-# Twirrer | Social Network App
+# Shitter | My Shitty Social Network App
 
-I tried in this project to build an application similar to Twitter but certainly does not have all the features, but it contains the basic features such as (create an account, add a tweet, add a friend, like, comment, etc..).
+I recently got banned on Twitter, so I decided to build my own social media platform, and I'll name it Shitter 💩
 
 ## Live Demo
-[twirrer.netlify.app](https://twirrer.netlify.app/)
+[xxxxxxx](https://)
 
 ## Project Screenshot
-![Twirrer screenshot](./home.PNG)
-![Twirrer screenshot](./twirrer.PNG)
+![Shitter screenshot](./home.PNG)
+![Shitter screenshot](./twirrer.PNG)
 
 ## Project Features:
 - Cache 📂
-- Nice design as Twitter design.
+- Shitty design.
 - Fully responsive design (100%).
-- Dark/Light theme.
+- Dark/Light/Shitty theme.
 - English/German languages.
-- Notifications in app. 
+- Shittyfications in app.
 
 ## Technologies used in the project:
 ### 1- Backend:
